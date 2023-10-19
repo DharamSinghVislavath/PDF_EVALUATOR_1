@@ -3,7 +3,7 @@
 # User Table Query
 - create table users(userid int NOT NULL AUTO_INCREMENT primary key,username varchar(26),email varchar(30),pnnumber int(21),hcdu varchar(40),password varchar(20)); 
 
-# PDF upload Query
+# PDF upload query
 
 - 
 CREATE TABLE pdfupload (
